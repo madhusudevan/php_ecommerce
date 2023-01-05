@@ -15,7 +15,7 @@ include('./functions/common_function.php');
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>EC Shope</title>
 
     <!-- css Link -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -97,7 +97,7 @@ include('./functions/common_function.php');
    
 <?php
 //calling function
-getProducts();
+//getProducts();
 get_unique_categories();
  get_unique_brands()
 
@@ -148,7 +148,7 @@ get_unique_categories();
 
 
 <!--  last child -->
-<div class="bg-info p-3 text-center " style="padding:0px;" >
+<div class=" bg-info p-3 text-center " style="padding:0px;" >
     <p>all right reserved c disply at vph</p>
 </div>
     </div>
